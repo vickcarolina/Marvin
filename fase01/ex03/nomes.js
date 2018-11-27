@@ -1,6 +1,6 @@
 
-function nomes(nome1,nome2){
-    return "Arthur e Zaphod";
+function nomes(Arthur, Zaphod){
+    console.log "Arthur e Zaphod";
 }
     
     
