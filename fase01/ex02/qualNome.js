@@ -1,5 +1,5 @@
 function qualNome(nome){
- console "meu nome é Arthur";
+ console ("Meu nome é Arthur");
 }
 
     
