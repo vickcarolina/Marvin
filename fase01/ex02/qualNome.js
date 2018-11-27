@@ -1,5 +1,3 @@
-function qualNome(nome){
- console.log ("Meu nome é Arthur");
+function qualNome(Victoria){
+return ("Meu nome é "+Victoria);
 }
-
-    
